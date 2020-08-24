@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I've been independently studying web development and have completed the following courses:
+
+<a href="https://www.learnenough.com/certificates/AaronDCruz"><img src="https://www.learnenough.com/certificates/AaronDCruz/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/AaronDCruz"><img src="https://www.learnenough.com/certificates/AaronDCruz/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/AaronDCruz"><img src="https://www.learnenough.com/certificates/AaronDCruz/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/AaronDCruz"><img src="https://www.learnenough.com/certificates/AaronDCruz/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/AaronDCruz"><img src="https://www.learnenough.com/certificates/AaronDCruz/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/AaronDCruz"><img src="https://www.learnenough.com/certificates/AaronDCruz/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
+
+🌱 I’m currently learning [Ruby](https://www.learnenough.com/ruby)
 <!--
 **poppacalypse/poppacalypse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
