@@ -6,7 +6,7 @@ I've been independently studying web development and have completed the followin
 
 🛤 &nbsp; now: learning [Ruby on Rails](https://www.railstutorial.org/)
 
-👨‍💻   Pronouns: he/him
+👨‍💻 &nbsp; Pronouns: he/him
 
 <!--
 **poppacalypse/poppacalypse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
