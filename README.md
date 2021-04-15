@@ -6,8 +6,8 @@ I've been independently learning web development and have completed the followin
 
 now:
 <br>📚 &nbsp; self-learning Python and [Ruby on Rails](https://www.railstutorial.org/); Google Cloud Engineering trainee (SkillsFuture Singapore)
-<br>🛠 &nbsp; bootstrapping [Jam Pony Delivery](https://jampony.delivery)
-<br>💻 &nbsp; freelance web developer
+<br>🛠 &nbsp; bootstrapping [Jam Pony Delivery](https://jampony.delivery) (passion project - code for 💖)
+<br>💻 &nbsp; freelance web developer (code for 💰)
 
 <!--
 **poppacalypse/poppacalypse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
