@@ -6,8 +6,8 @@ I've been independently learning web development and have completed the followin
 
 now:
 <br>📚 &nbsp; learning Python, Django, PWA and [Ruby on Rails](https://www.railstutorial.org/)
-<br>🛠 &nbsp; bootstrapping [Jam Pony Delivery](https://jampony.delivery) 
-<br>💻 &nbsp; freelance web developer 
+<br>🛠 &nbsp; buildint tools for restaurant owners at [Maynuu](https://maynuu.com/en-SG/home)
+<br>💻 &nbsp; independent web developer 
 
 <!--
 **poppacalypse/poppacalypse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
