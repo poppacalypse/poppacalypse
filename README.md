@@ -1,6 +1,6 @@
-### Hi friends 👋
+### Welcome, wanderer 👋
 
-I've been independently learning web development and have completed the following courses (hover for title):
+Self-taught, aspiring web magician. I have completed the following courses (hover for title):
 
 <a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/command-line-tutorial.svg" title="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/text-editor-tutorial.svg" title="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/git-tutorial.svg" title="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/html-tutorial.svg" title="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/css-and-layout-tutorial.svg" title="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/javascript-tutorial.svg" title="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/poppacalypse"><img src="https://www.learnenough.com/certificates/poppacalypse/ruby-tutorial.svg" title="Certificate of Completion for Learn Enough Ruby"></a>
 
