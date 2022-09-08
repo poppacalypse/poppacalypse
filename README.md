@@ -6,7 +6,7 @@ Self-taught, aspiring web magician. I have completed the following courses (hove
 
 now:
 <br>📚 &nbsp; learning Python, Django, React, PWA and [Ruby on Rails](https://www.railstutorial.org/)
-<br>🛠 &nbsp; buildint tools for restaurant owners at [Maynuu](https://maynuu.com/en-SG/home)
+<br>🛠 &nbsp; building tools for small restaurants [Maynuu](https://maynuu.com/en-SG/home)
 <br>💻 &nbsp; independent web developer 
 
 <!--
