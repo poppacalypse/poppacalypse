@@ -8,7 +8,7 @@ I ran a restaurant for 13 years.
 Now I'm a self-taught, front-end web developer on the path to full stack.
 
 * 🌍  based in Singapore
-* 🚀  building tools for small restaurants at [Maynuu](http://maynuu.com/en-SG/home)
+* 🚀  building tools for small restaurants at [Maynuu](https://maynuu.com/en-SG/home)
 * 🧠  learning Ruby on Rails and JavaScript
 * 🤝  open to collaborating on meaningful projects as a front-end developer
 * ⚡  come talk Battlestar Galactica & The Walking Dead with me any time!
