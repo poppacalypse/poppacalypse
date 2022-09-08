@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Poppa
+hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is Carl Poppa
 ==================================================================================================================================
 
-Web Développeur, Entrepreneur, ex-Restaurateur
-------------------------------
+Web Développeur, Entrepreneur, Restaurateur
+-------------------------------------------
 
 I ran a restaurant for 13 years. 
 Now I'm a self-taught, front-end web developer on the path to full stack.
@@ -11,7 +11,7 @@ Now I'm a self-taught, front-end web developer on the path to full stack.
 * 🚀  building tools for small restaurants at [Maynuu](http://maynuu.com/en-SG/home)
 * 🧠  learning Ruby on Rails and JavaScript
 * 🤝  open to collaborating on meaningful projects as a front-end developer
-* ⚡  come nerd out on Battlestar Galactica & The Walking Dead any time!
+* ⚡  come talk Battlestar Galactica & The Walking Dead with me any time!
 
 <a href="https://www.twitter.com/poppacalypse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/poppacalypse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
