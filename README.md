@@ -24,10 +24,10 @@ Self-taught, aspiring web magician.
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials
+
+
+<p align="left">
                           
                       <a href="https://www.github.com/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
