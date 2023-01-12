@@ -43,9 +43,9 @@ src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-t
 
 <a href="http://www.github.com/poppacalypse"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=poppacalypse&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppacalypse&theme=transparent&title_color=0891b2&text_color=ffffff&hide_border=true&custom_title=Top%20%Languages)](https://github.com/poppacalypse)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppacalypse&theme=transparent&title_color=0891b2&text_color=ffffff&hide_border=true&custom_title=Top%20%Languages)](https://github.com/poppacalypse) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppacalypse)](https://github.com/poppacalypse)
 
 ### Support Me
 
