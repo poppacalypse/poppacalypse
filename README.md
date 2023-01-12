@@ -8,7 +8,7 @@ Self-taught, aspiring web magician.
 
 * 🌍  I'm based in Singapore
 * 🚀  I'm currently working on [Maynuu](http://maynuu.com/en-SG/home)
-* 🧠  I'm learning Ruby on Rails and JavaScript
+* 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on meaningful projects as a front-end developer
 * ⚡  come nerd out about Battlestar Galactica & The Walking Dead any time!
 
