@@ -45,6 +45,8 @@ src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppacalypse&theme=transparent&title_color=0891b2&text_color=ffffff&hide_border=true&custom_title=Top%20%Languages)](https://github.com/poppacalypse)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Support Me
 
