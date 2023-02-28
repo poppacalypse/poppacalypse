@@ -14,7 +14,7 @@ Self-taught, aspiring web magician.
 
 <a href="https://www.twitter.com/poppacalypse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/poppacalypse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img
+/>4600</a><a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
