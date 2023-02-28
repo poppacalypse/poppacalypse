@@ -13,8 +13,7 @@ Self-taught, aspiring web magician.
 * ⚡  come nerd out about Battlestar Galactica & The Walking Dead any time!
 
 <a href="https://www.twitter.com/poppacalypse" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/poppacalypse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-<span style="background-color: #0891b2; color: #1c1917;">4600</span></a>
+src="https://img.shields.io/twitter/follow/poppacalypse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
