@@ -47,4 +47,4 @@ src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-t
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/carlpoppa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
