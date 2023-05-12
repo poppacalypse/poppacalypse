@@ -12,7 +12,7 @@ Self-taught, aspiring web magician.
 * 🤝  I'm open to collaborating on meaningful projects as a front-end developer
 * ⚡  come nerd out about Battlestar Galactica & The Walking Dead any time!
 
-<a href="https://alpaca.gold/@poppacalypse" target="blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109646489759073442?domain=https%3A%2F%2Falpaca.gold&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://alpaca.gold/@poppacalypse" target="blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge"/></a>
 
 <a href="https://www.twitter.com/poppacalypse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/poppacalypse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
