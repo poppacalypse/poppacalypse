@@ -6,9 +6,10 @@ Web Developer and Entrepreneur
 
 Self-taught, aspiring web magician.
 
-* 💼  I work at [Maynuu](https://maynuu.com) doing front-end dev, marketing, and partner support
-* 🛸  I'm currently working on [F&B Tools](https://fnb.tools), Doggy Birthdays, and [Beyond Demise](https://www.beyonddemise.com/) 
-* 🧠  I'm learning Ruby on Rails
+* 💼  I do freelance client work in web and Shopify development
+* ❇️  I also work at [Maynuu](https://maynuu.com) on front-end dev, marketing, and partner support
+* 🛸  I'm building [F&B Tools](https://fnb.tools), Doggy Birthdays, and [Beyond Demise](https://www.beyonddemise.com/) 
+* 🛤  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on meaningful projects as a front-end developer or content writer
 * ⚡  Talk to me about Battlestar Galactica & The Walking Dead any time! 🧟‍♂️
 
