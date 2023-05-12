@@ -13,22 +13,6 @@ Self-taught, aspiring web magician.
 * 🤝 I'm open to collaborating on meaningful projects as a front-end developer or content writer
 * ⚡  Talk to me about Battlestar Galactica & The Walking Dead any time! 🧟‍♂️
 
-<a href="https://twitter.com/poppacalypse?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @poppacalypse</a>
-<span id="follower-count"></span>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script>
-    window.twttr.widgets.createFollowButton(
-        "poppacalypse",
-        document.getElementById("follower-count"),
-        {
-            showCount: true,
-            lang: "en",
-            size: "large"
-        }
-    );
-</script>
-
-
 <a href="https://alpaca.gold/@poppacalypse" target="blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge"/></a><a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
