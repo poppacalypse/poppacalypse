@@ -10,7 +10,7 @@ Self-taught, aspiring web magician.
 * ❇️  I also work at [Maynuu](https://maynuu.com) on front-end dev, marketing, and partner support
 * 🛸  I'm building [F&B Tools](https://fnb.tools), Doggy Birthdays, and [Beyond Demise](https://www.beyonddemise.com/) 
 * 🛤  I'm learning Ruby on Rails
-* 🤝  I'm open to collaborating on meaningful projects as a front-end developer or content writer
+* 🤝 I'm open to collaborating on meaningful projects as a front-end developer or content writer
 * ⚡  Talk to me about Battlestar Galactica & The Walking Dead any time! 🧟‍♂️
 
 <a href="https://alpaca.gold/@poppacalypse" target="blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge"/></a><a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img
