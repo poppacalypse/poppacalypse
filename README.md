@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Entrepreneur
 ------------------------------
 
-Self-taught, aspiring web magician.
+Aspiring & self-taught web magician.
 
 * 💼  I do freelance client work in web and Shopify development
 * ❇️  I also work at [Maynuu](https://maynuu.com) on front-end dev, marketing, and partner support
