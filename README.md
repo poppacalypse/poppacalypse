@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Poppa
 ==================================================================================================================================
 
-Web Developer and Entrepreneur
-------------------------------
-
 👨🏻‍🍳 Former restaurateur → self-taught programmer 🙆🏻‍♂️
+--------------------------------------------------
 
 * 🤺  I do freelance client work in web and Shopify development
-* ❇️  I work at [Maynuu](https://maynuu.com) on front-end dev, marketing, and partner support
+* ❇️  I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support
 * 🛸  Building [F&B Tools](https://fnb.tools), Doggy Birthdays, and [Beyond Demise](https://www.beyonddemise.com/) 
 * 🛤  Learning Ruby on Rails
 * 🤝 Open to collaborating on meaningful projects as a front-end developer or content writer
