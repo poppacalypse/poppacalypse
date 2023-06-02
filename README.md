@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨🏻‍🍳 Former restaurateur → self-taught programmer 🙆🏻‍♂️
 --------------------------------------------------
 
-* 🤺  I do freelance client work in web and Shopify development
 * ❇️  I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support
+* 🤺  Also freelance client work in web and Shopify development
 * 🛸  Building [F&B Tools](https://fnb.tools), Doggy Birthdays, and [Beyond Demise](https://www.beyonddemise.com/) 
 * 🛤  Learning Ruby on Rails
 * 🤝 Open to collaborating on meaningful projects as a front-end developer or content writer
