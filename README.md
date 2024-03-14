@@ -6,13 +6,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ❇️  I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support
 * 🤺  Also freelance client work in web and Shopify development
-* 🛸  Building F&B Tools and [Beyond Demise](https://www.beyonddemise.com/) 
-* 🛤  Learning Ruby on Rails
-* 🤝 Open to collaborating on meaningful projects as a front-end developer or content writer
-* ⚡  Talk to me about Battlestar Galactica & The Walking Dead any time! 🧟‍♂️
+* 🛸  Shipping [Niche Business Ideas](https://ideagenius.xyz) and [Beyond Demise](https://www.beyonddemise.com/) 
+* ⚡  Fav TV shows: Battlestar Galactica (2000's), The Walking Dead 🧟‍♂️
 
-<a href="https://alpaca.gold/@poppacalypse" target="blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge"/></a><a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Follow%20%40poppacalypse%206.5K&labelColor=%231c1917%20&color=%231c1917%20)](https://x.com/poppacalypse)
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge)](https://alpaca.gold/@poppacalypse)
+
+[![Twitch Status](https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](twitch.tv/poppacalypse)
+
 
 ### Skills
 
@@ -35,15 +37,11 @@ src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-t
 
 <p align="left"> <a href="https://www.github.com/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aaronwdcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
+![poppacalypse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true)
 
-<a href="http://www.github.com/poppacalypse"><img src="https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!--a href="http://www.github.com/poppacalypse"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=poppacalypse&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/poppacalypse" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poppacalypse&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
 
 ### Support Me
 
