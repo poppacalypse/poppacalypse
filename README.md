@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge)](https://alpaca.gold/@poppacalypse)
 
-[![Twitch Status](https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](twitch.tv/poppacalypse)
+[![Twitch Status](https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://twitch.tv/poppacalypse)
 
 
 ### Skills
