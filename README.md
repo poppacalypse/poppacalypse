@@ -4,7 +4,10 @@
 
 - ❇️ I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support
 - 🤺 Also freelance client work in web and Shopify development
-- 🛸 Shipping [Niche Business Ideas](https://ideagenius.xyz) and [Beyond Demise](https://www.beyonddemise.com/)
+- 🛸 Shipping side projects:
+  - 💿 [Best SaaS Starters and Boilerplates](https://saasboilerplates.dev/) 
+  - 💡 [Niche Business Ideas](https://ideagenius.xyz)
+  - 🪦 [Beyond Demise](https://www.beyonddemise.com/)
 - ⚡ Fav TV shows: Battlestar Galactica (2000's), The Walking Dead 🧟‍♂️
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Follow%20%40poppacalypse%206.5K&labelColor=%231c1917%20&color=%231c1917%20)](https://x.com/poppacalypse)
