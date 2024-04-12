@@ -49,3 +49,7 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<div style="display:none">
+<script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="27461396-6348-4a75-9e76-6ca7a780bdbd" async></script>
+</div>
