@@ -20,8 +20,9 @@
 <br/>
 
 <div align="center">
-|    |    |    |    |
-| :- | :- | :- | :- |
+
+|     |      |             |     |
+| :-- | :--- | :---------- | :-- |
 | img | name | description | url |
 
 </div>
