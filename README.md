@@ -21,12 +21,13 @@
 ---
 
 <div align="center">
+  <p>come say hi</p>
   <a href="https://x.com/poppacalypse" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Twitter%206.6K&labelColor=%231c1917%20&color=%231c1917%20" alt="X (formerly Twitter) Follow"></a>
+    <img src="https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Twitter%206.6K&labelColor=%231a1b27%20&color=%231a1b27%20" alt="X (formerly Twitter) Follow"></a>
   <a href="https://alpaca.gold/@poppacalypse" target="_blank">
-    <img src="https://img.shields.io/mastodon/follow/109646489759073442?color=37bcae&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge&label=Mastodon" alt="Mastodon Follow"></a>
+    <img src="https://img.shields.io/mastodon/follow/109646489759073442?color=37bcae&labelColor=1a1b27&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge&label=Mastodon" alt="Mastodon Follow"></a>
   <a href="https://twitch.tv/poppacalypse" target="_blank">
-    <img src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=37bcae&labelColor=1c1917&label=TWITCH+STATUS" alt="Twitch Status"></a>
+    <img src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=37bcae&labelColor=1a1b27&label=TWITCH+STATUS" alt="Twitch Status"></a>
 </div>
 
 ### My GitHub Stats
