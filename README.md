@@ -47,7 +47,7 @@
 
 <div align="center">
   <p>support my projects</p>
-  <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Nuka-Cola&emoji=👍&slug=poppacalypse&button_colour=37bcae&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Nuka-Cola&emoji=👍&slug=poppacalypse&button_colour=37bcae&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a> &nbsp; &nbsp;
   <a href='https://ko-fi.com/T6T0ILC75' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
