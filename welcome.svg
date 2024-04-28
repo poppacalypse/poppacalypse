@@ -13,12 +13,12 @@
       }
 
       .body {
-        --color-main: #00ffff;
-        --color-primary: #ff00ff;
-        --color-secondary: #ffff00;
-        --color-background: #2b2b2b;
-        --color-link: #00ff00;
-        --color-link-active: #ff00ff;
+        --color-main: #ff9b71;
+        --color-primary: #ff4444;
+        --color-secondary: #e8e677;
+        --color-background: #0d1117;
+        --color-link: #fef29e;
+        --color-link-active: #ff4444;
 
         height: 400px;
         width: 100%;
@@ -203,21 +203,21 @@
     <div class='body'>
       <div class='container'>
         <h1>
-          <a href="https://github.com/poppacalypse">
-            <span><em>carl poppa</em></span>
-            <span><em>carl poppa</em></span>
-            <span><em>carl poppa</em></span>
+          <a href="https://github.com/nikolalsvk">
+            <span><em>nikola đuza</em></span>
+            <span><em>nikola đuza</em></span>
+            <span><em>nikola đuza</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>restaurateur → programmer</li>
+            <li>Writer &#38; Software Engineer</li>
           </ul>
           <ul>
-            <li><span class='hi'>👨🏻‍🍳 → 👨🏻‍💻</span></a></li>
+            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
           </ul>
           <ul>
-            <li>shipping <a href="https://saasboilerplates.dev">Best SaaS Boilerplates</a></li>
+            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
           </ul>
         </section>
       </div>
