@@ -47,6 +47,6 @@
 
 [![Top Langs](https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
 
-### Support Me
+### Support Meee
 
 <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
