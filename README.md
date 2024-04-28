@@ -4,21 +4,27 @@
   </a>
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
+  <p>I work at <a href="https://maynuu.com">Maynuu</a> on front-end development,
+    <br/> marketing, and partner support.
+  </p>
 
-<p>I work at <a href="https://maynuu.com">Maynuu</a> on 
-  <br/>front-end development, marketing, and partner support.
-</p>
-
-<p>I also love shipping side projects.
-  <br/>Check them out below.
-</p>
-
+  <p>I also love shipping smol projects.
+    <br/>Check them out below.
+  </p>
 </div>
 
----
+<br/>
+
+<div align="center">
+|    |    |    |    |
+| :- | :- | :- | :- |
+| img | name | description | url |
+
+</div>
 
 <div align="center">
   <p>come say hi</p>
