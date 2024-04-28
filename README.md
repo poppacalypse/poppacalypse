@@ -47,7 +47,7 @@
 
 ![poppacalypse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-lemon-seven-17.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
 
 ### Support Me
 
