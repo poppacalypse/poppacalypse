@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://saasboilerplates.dev">
+  <a href="https://saasboilerplates.dev?ref=gh" target="_blank">
     <img src="https://raw.githubusercontent.com/poppacalypse/poppacalypse/master/welcome.svg" width="800" height="auto">
   </a>
 </div>
@@ -43,6 +43,7 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
 </p>
 
 ### Socials
