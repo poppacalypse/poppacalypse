@@ -21,9 +21,9 @@
 
 <div align="center">
 
-|     |      |             |     |
-| --- | ---- | ----------- | --- |
-| img | name | description | url |
+|                                                                                                                                                                        |                            |                                                              |                                                      |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :--------------------------------------------------- |
+| <a href="https://saasboilerplates.dev" target="_blank"><img height="70px" src="https://saasboilerplates.dev/favicons/logo.svg" alt="Best SaaS Boilerplates Logo /></a> | **Best SaaS Boilerplates** | The best SaaS starters & boilerplates for devs and founders. | [saasboilerplates.dev](https://saasboilerplates.dev) |
 
 </div>
 
