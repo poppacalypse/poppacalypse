@@ -12,8 +12,8 @@
     <br/> marketing, and partner support.
   </p>
 
-  <p>I also love shipping smol projects.
-    <br/>Check them out below.
+  <p>I also love shipping smol projects
+    <br/>↓
   </p>
 </div>
 
