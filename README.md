@@ -12,7 +12,7 @@
     <br/> marketing, and partner support.
   </p>
 
-  <p>In my spare time, I love shipping some smol projects
+  <p>In my spare time, I ship some smol projects.
     <br/>↓
   </p>
 </div>
@@ -35,7 +35,7 @@
 <div align="center">
   <p>come say hi</p>
   <a href="https://x.com/poppacalypse" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Twitter%206.6K&labelColor=%231a1b27%20&color=%231a1b27%20-hello-blue" alt="X (formerly Twitter) Follow"></a>
+    <img src="https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Twitter&labelColor=%231a1b27&color=%231a1b27&message=6.6K&colorA=%2337bcae" alt="X (formerly Twitter) Follow"></a>
   <a href="https://alpaca.gold/@poppacalypse" target="_blank">
     <img src="https://img.shields.io/mastodon/follow/109646489759073442?color=37bcae&labelColor=1a1b27&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge&label=Mastodon" alt="Mastodon Follow"></a>
   <a href="https://twitch.tv/poppacalypse" target="_blank">
@@ -58,7 +58,3 @@
 </div>
 
 [![Top Langs](https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
-
-### Support Meee
-
-<a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
