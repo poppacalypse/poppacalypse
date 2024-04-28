@@ -204,20 +204,20 @@
       <div class='container'>
         <h1>
           <a href="https://github.com/nikolalsvk">
-            <span><em>nikola đuza</em></span>
-            <span><em>nikola đuza</em></span>
-            <span><em>nikola đuza</em></span>
+            <span><em>carl poppa</em></span>
+            <span><em>carl poppa</em></span>
+            <span><em>carl poppa</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer &#38; Software Engineer</li>
+            <li>restaurateur turned programmer</li>
           </ul>
           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
+            <li>shipping <a href="https://saasboilerplates.dev">Best SaaS Boilerplates</a></li>
           </ul>
           <ul>
-            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+            <li><a href="https://twitter.com/poppacalypse" role="button"><span class='hi'>👋</span></a></li>
           </ul>
         </section>
       </div>
