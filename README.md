@@ -4,17 +4,21 @@
   </a>
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Poppa
+---
 
-## 👨🏻‍🍳 Former restaurateur → self-taught programmer 🙆🏻‍♂️
+<div align="center">
 
-- ❇️ I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support
-- 🤺 Also freelance client work in web and Shopify development
-- 🛸 Shipping side projects:
-  - 💿 [Best SaaS Starters and Boilerplates](https://saasboilerplates.dev/)
-  - 💡 [Niche Business Ideas](https://ideagenius.xyz)
-  - 🪦 [Beyond Demise](https://www.beyonddemise.com/)
-- ⚡ Fav TV shows: Battlestar Galactica (2000's), The Walking Dead 🧟‍♂️
+<p>❇️ I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support</p>
+<p>🤺 Also freelance client work in web and Shopify development</p>
+<ul>🛸 Shipping side projects:
+  <li>💿 [Best SaaS Starters and Boilerplates](https://saasboilerplates.dev/)</li>
+  <li>💡 [Niche Business Ideas](https://ideagenius.xyz)</li>
+  <li>🪦 [Beyond Demise](https://www.beyonddemise.com/)</li>
+</ul>
+<p>⚡ Fav TV shows: Battlestar Galactica (2000's), The Walking Dead 🧟‍♂️</p>
+</div>
+
+---
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Follow%20%40poppacalypse%206.5K&labelColor=%231c1917%20&color=%231c1917%20)](https://x.com/poppacalypse)
 
