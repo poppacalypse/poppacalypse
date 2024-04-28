@@ -211,13 +211,13 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer &#38; Software Engineer</li>
+            <li>restaurateur → programmer</li>
           </ul>
           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
+            <li><span class='hi'>👨🏻‍🍳 → 👨🏻‍💻</span></a></li>
           </ul>
           <ul>
-            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+            <li>shipping <a href="https://saasboilerplates.dev">Best SaaS Boilerplates</a></li>
           </ul>
         </section>
       </div>
