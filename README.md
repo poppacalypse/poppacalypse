@@ -20,39 +20,19 @@
 
 ---
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Follow%20%40poppacalypse%206.5K&labelColor=%231c1917%20&color=%231c1917%20)](https://x.com/poppacalypse)
+<div align="center">
+  <a href="https://x.com/poppacalypse" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/poppacalypse?style=for-the-badge&logo=x&logoColor=%23ffffff&label=Follow%20%40poppacalypse%206.5K&labelColor=%231c1917%20&color=%231c1917%20" alt="X (formerly Twitter) Follow">
+  </a>
 
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge)](https://alpaca.gold/@poppacalypse)
+  <a href="https://alpaca.gold/@poppacalypse" target="_blank">
+    <img src="https://img.shields.io/mastodon/follow/109646489759073442?color=0891b2&labelColor=1c1917&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge" alt="Mastodon Follow">
+  </a>
 
-[![Twitch Status](https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://twitch.tv/poppacalypse)
-
-### Skills
-
-<p align="left">
-
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://github.com/poppacalypse/sample_app2022/blob/main/app/assets/images/rails.svg" height="36" alt="Ruby on Rails" /></a>
-<a href="https://jekyllrb.com" target="_blank" rel="noreferrer"><img src="https://jekyllrb.com/img/logo-2x.png" height="36" alt="Jekyll"></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aaronwdcruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/poppacalypse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+  <a href="https://twitch.tv/poppacalypse" target="_blank">
+    <img src="https://img.shields.io/twitch/status/poppacalypse?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" alt="Twitch Status">
+  </a>
+</div>
 
 ### My GitHub Stats
 
