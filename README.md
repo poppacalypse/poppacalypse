@@ -8,14 +8,14 @@
 
 <div align="center">
 
-<p>❇️ I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support</p>
-<p>🤺 Also freelance client work in web and Shopify development</p>
-<ul>🛸 Shipping side projects:
-  <li>💿 [Best SaaS Starters and Boilerplates](https://saasboilerplates.dev/)</li>
-  <li>💡 [Niche Business Ideas](https://ideagenius.xyz)</li>
-  <li>🪦 [Beyond Demise](https://www.beyonddemise.com/)</li>
-</ul>
-<p>⚡ Fav TV shows: Battlestar Galactica (2000's), The Walking Dead 🧟‍♂️</p>
+<p>I work at <a href="https://maynuu.com">Maynuu</a> on 
+  <br/>front-end development, marketing, and partner support.
+</p>
+
+<p>I also love shipping side projects.
+  <br/>Check them out below.
+</p>
+
 </div>
 
 ---
