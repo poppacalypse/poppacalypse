@@ -1,5 +1,7 @@
 <div align="center">
+  <a href="https://saasboilerplates.dev">
     <img src="https://raw.githubusercontent.com/poppacalypse/poppacalypse/master/welcome.svg" width="800" height="auto">
+  </a>
 </div>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Poppa
@@ -9,7 +11,7 @@
 - ❇️ I work at [Maynuu](https://maynuu.com) on front-end development, marketing, and partner support
 - 🤺 Also freelance client work in web and Shopify development
 - 🛸 Shipping side projects:
-  - 💿 [Best SaaS Starters and Boilerplates](https://saasboilerplates.dev/) 
+  - 💿 [Best SaaS Starters and Boilerplates](https://saasboilerplates.dev/)
   - 💡 [Niche Business Ideas](https://ideagenius.xyz)
   - 🪦 [Beyond Demise](https://www.beyonddemise.com/)
 - ⚡ Fav TV shows: Battlestar Galactica (2000's), The Walking Dead 🧟‍♂️
@@ -41,7 +43,7 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                    </p>
+</p>
 
 ### Socials
 
@@ -50,6 +52,7 @@
 ### My GitHub Stats
 
 ![poppacalypse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true)
+
 </div>
 
 [![Top Langs](https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
@@ -57,5 +60,3 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
