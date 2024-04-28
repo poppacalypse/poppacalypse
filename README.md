@@ -51,10 +51,10 @@
   <a href="https://www.ko-fi.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Or a coffee&emoji=😙&slug=poppacalypse&button_colour=37bcae&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
-### My GitHub Stats
+<div align="center">
 
 ![poppacalypse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true)
 
-</div>
-
 [![Top Langs](https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
+
+</div>
