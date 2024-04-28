@@ -21,9 +21,10 @@
 
 <div align="center">
 
-|                                                                                                                                                                    |                            |                                                              |                                                      |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :--------------------------------------------------- |
-| <a href="https://saasboilerplates.dev" target="_blank"><img height="70px" src="https://saasboilerplates.dev/favicons/logo.svg" alt="SaaS Boilerplates Logo" /></a> | **Best SaaS Boilerplates** | The best SaaS starters & boilerplates for devs and founders. | [saasboilerplates.dev](https://saasboilerplates.dev) |
+|                                                                                                                                                                                                                 |                            |                                                                                         |                                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- | :-------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| <a href="https://saasboilerplates.dev" target="_blank"><img height="50px" src="https://saasboilerplates.dev/favicons/logo.svg" alt="SaaS Boilerplates Logo" /></a>                                              | **Best SaaS Boilerplates** | The best SaaS starters & boilerplates for devs and founders.                            | [saasboilerplates.dev](https://saasboilerplates.dev) |
+| <a href="https://ideagenius.xyz" target="_blank"><img height="50px" src="https://ideagenius.xyz/assets/logo-1e1147f98146dcd7b9b15c88f8bc720e08727df7b2b02d95a54bb0fe0c0abb74.png" alt="Idea Genius Logo" /></a> | **Best SaaS Boilerplates** | Discover niche business ideas with every click. Endless inspiration for every industry! | [ideagenius.xyz](https://ideagenius.xyz)             |
 
 </div>
 
