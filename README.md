@@ -1,3 +1,4 @@
+<div align="center">
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Poppa
 
 ## 👨🏻‍🍳 Former restaurateur → self-taught programmer 🙆🏻‍♂️
@@ -46,6 +47,7 @@
 ### My GitHub Stats
 
 ![poppacalypse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true)
+</div>
 
 [![Top Langs](https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/poppacalypse/github-readme-stats)
 
