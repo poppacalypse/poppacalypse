@@ -54,8 +54,8 @@
 <br/>
 <br/>
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true" alt="poppacalypse's Streak">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true" alt="poppacalypse's Streak" style="vertical-align: top;">
   <a href="https://github.com/poppacalypse/github-readme-stats">
     <img src="https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
   </a>
