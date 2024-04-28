@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://saasboilerplates.dev?ref=gh" target="_blank">
+  <a href="https://saasboilerplates.dev/?ref=gh" target="_blank">
     <img src="https://raw.githubusercontent.com/poppacalypse/poppacalypse/master/welcome.svg" width="800" height="auto">
   </a>
 </div>
