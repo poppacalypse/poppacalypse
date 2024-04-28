@@ -56,7 +56,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=tru&card_width=800" alt="poppacalypse's Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=poppacalypse&theme=tokyonight&hide_border=true" alt="poppacalypse's Streak">
   </div>
   <a href="https://github.com/poppacalypse/github-readme-stats">
     <img src="https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
