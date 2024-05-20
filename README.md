@@ -58,8 +58,7 @@
   <a href="https://github.com/poppacalypse/github-readme-stats">
     <img src="https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
   </a>
-  <div style="display: flex; align-items: center;">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=poppacalypse&theme=tokyonight&hide_border=true&type=png" alt="GitHub Streak" /></a>
-  </div>
-  
 </div>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=poppacalypse&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
