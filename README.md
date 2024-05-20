@@ -58,7 +58,9 @@
   <a href="https://github.com/poppacalypse/github-readme-stats">
     <img src="https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
   </a>
+</div>
 
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=poppacalypse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
