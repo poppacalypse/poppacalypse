@@ -55,9 +55,7 @@
 <br/>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/poppacalypse/github-readme-stats">
-    <img src="https://github-readme-stats-rho-eight-18.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
-  </a>
+  <img src="https://most-used-langs-ten.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
