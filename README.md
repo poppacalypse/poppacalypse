@@ -8,12 +8,9 @@
 <br/>
 
 <div align="center">
-  <p>I work at <a href="https://maynuu.com">Maynuu</a> on front-end development,
-    <br/> marketing, and partner support.
-  </p>
-
-  <p>In my spare time, I ship some smol projects.
-    <br/>↓
+  <p>Ran a restaurant for 13 years. Sold it. Now learning to code.</p>
+  <p>I work at <a href="https://maynuu.com">Maynuu</a> while shipping projects on the side.
+  <br/>↓
   </p>
 </div>
 
