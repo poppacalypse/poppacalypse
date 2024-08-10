@@ -60,3 +60,9 @@
     <img src="https://github-streak-stats-mocha.vercel.app?user=poppacalypse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-streak-stats-4nu3erc6k-poppacalypses-projects.vercel.app?user=poppacalypse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
