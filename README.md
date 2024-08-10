@@ -51,16 +51,6 @@
 <br/>
 <br/>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://most-used-langs-ten.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs">
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-streak-stats-mocha.vercel.app?user=poppacalypse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-streak-stats-4nu3erc6k-poppacalypses-projects.vercel.app?user=poppacalypse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
