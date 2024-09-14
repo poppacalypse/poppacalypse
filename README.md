@@ -30,9 +30,12 @@
 <br/>
 
 <div align="center">
-  <p>support my learning journey</p>
-  <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Nuka-Cola&emoji=👍&slug=poppacalypse&button_colour=37bcae&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a> &nbsp; &nbsp;
-  <a href="https://www.ko-fi.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Or a ko-fi&emoji=😙&slug=poppacalypse&button_colour=37bcae&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <p>send me coffee for no good reason</p>
+<a href="https://www.buymeacoffee.com/poppacalypse"
+            ><img
+              src="https://img.buymeacoffee.com/button-api/?text=Tip&emoji=☕&slug=poppacalypse&button_colour=69cf95&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"
+            /></a
+          >
 </div>
 
 <br/>
