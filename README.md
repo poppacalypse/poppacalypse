@@ -33,7 +33,7 @@
   <p>send me coffee for no good reason</p>
 <a href="https://www.buymeacoffee.com/poppacalypse"
             ><img
-              src="https://img.buymeacoffee.com/button-api/?text=Tip&emoji=☕&slug=poppacalypse&button_colour=69cf95&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"
+              src="https://img.buymeacoffee.com/button-api/?text=Tip&emoji=☕&slug=poppacalypse&button_colour=37bcae&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"
             /></a
           >
 </div>
@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <p>come say hi some time</p>
+  <p>I love talking to people! Tweet / toot at me!</p>
   <a href="https://x.com/poppacalypse" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-7K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
   <a href="https://alpaca.gold/@poppacalypse" target="_blank">
