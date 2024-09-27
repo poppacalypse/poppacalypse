@@ -33,7 +33,6 @@
   <p>send me coffee for no good reason</p>
 <a href="https://www.buymeacoffee.com/poppacalypse"
             ><img
-               style="background-color: #37bcae; border-radius: 0.75rem;"
               src="https://img.buymeacoffee.com/button-api/?text=Tip&emoji=☕&slug=poppacalypse&button_colour=40DCA5&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"
             /></a
           >
