@@ -41,10 +41,11 @@
 
 <div align="center">
   <p>I love talking to people! Tweet / toot at me!</p>
-<a href="https://x.com/poppacalypse" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-7.2K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
-  
+  <a href="https://x.com/poppacalypse" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-7.2K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
 
+  <a href="https://bsky.app/profile/poppacalypse.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-1.1K-%2337bcae?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1a1b27" alt="Bluesky Follow"/></a><a href="https://alpaca.gold/@poppacalypse" target="_blank">
 
   <a href="https://alpaca.gold/@poppacalypse" target="_blank">
     <img src="https://img.shields.io/mastodon/follow/109646489759073442?color=37bcae&labelColor=1a1b27&domain=https%3A%2F%2Falpaca.gold&logo=mastodon&style=for-the-badge&label=Mastodon" alt="Mastodon Follow"></a>
