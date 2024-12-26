@@ -30,7 +30,6 @@
 <br/>
 
 <div align="center">
-  <p>send me coffee if you like my work. but no obligation, really</p>
  <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=poppacalypse&button_colour=40DCA5&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
  
   
