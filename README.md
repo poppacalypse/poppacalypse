@@ -39,7 +39,6 @@
 <br/>
 
 <div align="center">
-  <p>I love talking to people! Tweet / toot at me!</p>
   <a href="https://x.com/poppacalypse" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-7.3K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
 
