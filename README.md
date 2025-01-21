@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <p>Ran restaurants for 13 years. Sold them. Now learning to code and having fun :)</p>
+  <p>Ran restaurants for 13 years. Sold them. Now learning to code, stay fit, and build useful things :)</p>
   <p>I work at <a href="https://maynuu.com">Maynuu</a> while shipping projects on the side.
   <br/>↓
   </p>
