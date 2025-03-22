@@ -57,7 +57,6 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-stats-five-omega.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Langs">
-  <img src="https://most-used-langs-ten.vercel.app/api/top-langs/?username=poppacalypse&layout=pie&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Langs">
 </div>
 
 
