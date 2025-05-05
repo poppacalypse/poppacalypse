@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://x.com/poppacalypse" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-7.3K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
+    <img src="https://img.shields.io/badge/Twitter-7.4K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
 
   <a href="https://bsky.app/profile/poppacalypse.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-2K-%2337bcae?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1a1b27" alt="Bluesky Follow"/></a><a href="https://alpaca.gold/@poppacalypse" target="_blank">
