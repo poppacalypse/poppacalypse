@@ -8,8 +8,8 @@
 <br/>
 
 <div align="center">
-  <p>I built and sold two food businesses between 2006-2018. Then, I rekindled my love for tech through self-taught courses. Now I work as a web developer and marketer.</p>
-  <p>Day job at <a href="https://maynuu.com">Maynuu</a> while shipping projects on the side.
+  <p>I built and sold two food businesses between 2006-2018. <br />Then, I rekindled my love for tech through self-taught courses.</p>
+  <p>Now I work at <a href="https://maynuu.com">Maynuu</a> while shipping projects on the side.
   <br/>↓
   </p>
 </div>
