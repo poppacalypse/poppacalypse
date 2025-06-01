@@ -31,7 +31,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=poppacalypse&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+    <a href="https://www.buymeacoffee.com/poppacalypse">
+      <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=poppacalypse&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+    </a>
 </div>
 
 <br/>
