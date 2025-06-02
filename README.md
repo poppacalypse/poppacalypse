@@ -31,13 +31,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/poppacalypse"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=poppacalypse&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
   <a href="https://x.com/poppacalypse" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-7.4K-%2337bcae?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X (formerly Twitter) Follow"></a>
 
